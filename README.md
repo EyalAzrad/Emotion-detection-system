@@ -5,7 +5,8 @@ Keywords—Human emotion recognition; convolutional neural network (CNN); Media-
 
 example of our system :
 
-![_110124398_mediaitem110121043](https://user-images.githubusercontent.com/76653366/214154911-e85fbc4b-b4a9-49ec-a72b-7c815c921ae0.jpg)
+![WhatsApp Image 2023-01-23 at 23 31 38](https://user-images.githubusercontent.com/76653366/214156149-0072b8d9-5aac-45d7-82e0-9fe2f155fb49.jpeg)
+
 
 The accuracy of the models :
 ![image](https://user-images.githubusercontent.com/76653366/214155272-7bb44c48-9341-4436-82e9-aca3389ebd1a.png)

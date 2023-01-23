@@ -1,3 +1,3 @@
 # Emotion-detection-system
 THIE IS EMI=OTION CLASSIFIER  WHICH TAKE VIDEO AND RETURN EMOTION BY THEIR ORDER.
-![_110124398_mediaitem110121043](https://user-images.githubusercontent.com/76653366/214152833-302da388-3fa1-46f5-953c-a86d17432e00.jpg)
+

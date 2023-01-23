@@ -10,6 +10,12 @@ example of our system :
 The accuracy of the models :
 ![image](https://user-images.githubusercontent.com/76653366/214155272-7bb44c48-9341-4436-82e9-aca3389ebd1a.png)
 
+Confusion matrix:
+
+![WhatsApp Image 2023-01-23 at 16 32 20 (1)](https://user-images.githubusercontent.com/76653366/214155865-faec1bd3-9adf-4425-8c9e-4b33e216b14e.jpeg)
+
+![WhatsApp Image 2023-01-23 at 16 32 19](https://user-images.githubusercontent.com/76653366/214155910-8a044d27-1496-490c-93f4-50cc8d99c0f3.jpeg)
+
 The accuracy of the combination of two models:
 ![image](https://user-images.githubusercontent.com/76653366/214155490-381d21a2-cc02-4ef2-8669-d49517c51ed2.png)
 
